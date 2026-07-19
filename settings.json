@@ -1,8 +1,8 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "itz_not_bot7",
-    "password": "itz_not_bot1",
+    "username": "zeryo642",
+    "password": "zerto462",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "itz_not_bot1"
+      "password": "zerto462"
     },
     "anti-afk": {
       "enabled": true,
